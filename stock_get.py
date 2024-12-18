@@ -5,7 +5,7 @@ from datetime import datetime
 import pytz
 
 # OpenAI API Key setup
-openai.api_key = "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"
+openai.api_key = ""
 
 # Function to fetch the current stock price
 def get_stock_price(ticker):
